@@ -3,5 +3,6 @@
   "email": "john.doe@example.com",
   "project_name": "My Amazing Project",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-  "short_description": "This is my amazing project"
+  "short_description": "This is my amazing project",
+  "logging": true
 }
